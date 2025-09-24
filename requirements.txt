@@ -1,0 +1,7 @@
+setuptools
+click
+twine
+wheel
+click
+requests
+python-dotenv
